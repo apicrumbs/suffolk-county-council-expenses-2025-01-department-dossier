@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 | Status | Last Updated | Entity / ID | Summary Insight | Access Book |
 | :--- | :--- | :--- | :--- | :--- |
-| 🟢 | `Never` | **1 OAK HOME CARE** | Ledger | [View ↗](./1/1-oak-home-care.md) |
+| 🟢 | `Never` | **S4_AA-Care Purchasing** | Ledger | [View ↗](./S/s4-aa-care-purchasing.md) |
 
 
 ---
